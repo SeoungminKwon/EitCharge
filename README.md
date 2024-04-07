@@ -2,7 +2,7 @@
 `오픈 API 기반 충전소 / 충전기 정보 제공 서비스`
 
 ### 개발 기간
-``24.01.15. ~  ``
+``24.01.15. ~  24.02.22``
 
 ### 사용 기술 스택
 <img width="704" alt="image" src="https://github.com/E-IT-Charge/E-IT-Charge-Api-Server/assets/37866182/c1da9693-8f44-47c4-a563-be9357ba6149">
