@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img width="70%" heught="70%" alt="image" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeLX59z%2FbtsGf985HlB%2FIleQYILzBybtNbehUzaaWK%2Fimg.png">
+</p>
+<br/>
+
 ## EveryCharge 🚗
  > 전기차 충전기 API 활용 충전소 7만건 · 충전기 데이터 30만건 활용 정보 제공 서비스    
  
@@ -9,7 +15,7 @@
 
 ## 프로젝트 소개 📢
 - 프로젝트 이름 : `EveryCharge`
-- 개발 기간 : ``24. 01. 15. ~  24. 03. 29.``
+- 개발 기간 : ``24.01.15. ~  24.02.29``
 - 프로젝트 주제 : `오픈 API 기반 충전소 / 충전기 정보 제공 서비스`
 - 구현 기능 및 핵심 목표 :
   - 공공 데이터포탈 전기차 충전기 API 활용 충전소 7만건 · 충전기 데이터 30만건 활용 정보 제공
@@ -38,18 +44,5 @@
 ## ERD 👨🏻‍💻
 <img width="1023" alt="image" src="https://github.com/SeoungminKwon/EitCharge/assets/149944467/39d6bafa-3f4e-41f0-bb21-ae1eb41b986a">
 
-
-
-
-
-
-## E-IT-CHARGE
-`오픈 API 기반 충전소 / 충전기 정보 제공 서비스`
-
-### 개발 기간
-``24.01.15. ~  24.02.22``
-
-### 사용 기술 스택
-<img width="704" alt="image" src="https://github.com/E-IT-Charge/E-IT-Charge-Api-Server/assets/37866182/c1da9693-8f44-47c4-a563-be9357ba6149">
 
 
