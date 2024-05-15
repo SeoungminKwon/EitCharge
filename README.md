@@ -36,11 +36,6 @@
 <br/>
 <br/>
   
-## 시연영상 🎥
-- [시연 영상](https://youtu.be/0Az4CP7YrKY&t=2s)
-<br/>
-  
-  
 ## ERD 👨🏻‍💻
 <img width="1023" alt="image" src="https://github.com/SeoungminKwon/EitCharge/assets/149944467/39d6bafa-3f4e-41f0-bb21-ae1eb41b986a">
 
